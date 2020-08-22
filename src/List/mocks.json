@@ -1,0 +1,44 @@
+[
+  {
+    name: 'Coat',
+    price: '$10',
+    color: 'Black',
+    size: 'XL',
+    image: 'https://image.shutterstock.com/image-photo/close-man-blank-tshirt-260nw-140861086.jpg'
+  },
+  {
+    name: 'Whale toy',
+    price: '$20',
+    color: 'Black',
+    size: 'XL',
+    image: 'https://image.shutterstock.com/image-photo/man-wearing-blank-tshirt-isolated-600w-127241900.jpg'
+  },
+  {
+    name: 'Rabbit',
+    price: '$10',
+    color: 'Black',
+    size: 'XL',
+    image: 'https://image.shutterstock.com/image-photo/man-wearing-dark-grey-tshirt-600w-194788424.jpg'
+  },
+  {
+    name: 'Bodysuit',
+    price: '$22',
+    color: 'Black',
+    size: 'XL',
+    image: 'https://image.shutterstock.com/image-photo/white-tshirt-on-cute-boy-600w-166297466.jpg'
+  },
+  {
+    name: 'Whale',
+    price: '$10',
+    color: 'Black',
+    size: 'XL',
+    image: 'https://image.shutterstock.com/image-photo/dark-blue-tshirt-template-ready-600w-263509091.jpg'
+  },
+  {
+    name: 'Clothing',
+    price: '$10',
+    color: 'Black',
+    size: 'XL',
+    image: 'https://image.shutterstock.com/image-photo/pretty-smiling-blonde-woman-wearing-260nw-317400071.jpg'
+  },
+]

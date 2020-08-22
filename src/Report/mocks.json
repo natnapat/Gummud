@@ -1,0 +1,42 @@
+[
+  {
+    "price": "TEK-071",
+    "priceOriginal": "",
+    "time": "Yua Mikami",
+    "airline": "S1",
+    "rating": "4.6",
+    "saleoff": "55"
+  },
+  {
+    "price": "SSNI-152",
+    "priceOriginal": "",
+    "time": "Feb 2019",
+    "airline": "American Pacific",
+    "rating": "4.3",
+    "saleoff": "15"
+  },
+  {
+    "price": "JUL-167",
+    "priceOriginal": "$7,9999",
+    "time": "Feb 2019",
+    "airline": "Jet Airways",
+    "rating": "4.6",
+    "saleoff": "55"
+  },
+  {
+    "price": "FC2PPV",
+    "priceOriginal": "",
+    "time": "Feb 2019",
+    "airline": "Cathay Pacific",
+    "rating": "4.6",
+    "saleoff": "55"
+  },
+  {
+    "price": "IPX-267",
+    "priceOriginal": "",
+    "time": "Feb 2019",
+    "airline": "Cathay Pacific",
+    "rating": "4.6",
+    "saleoff": "55"
+  }
+]
